@@ -1,0 +1,33 @@
+﻿@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+
+    @if (SignInManager.IsSignedIn(User))
+    {
+        <li class="menu-item">
+        <a class="menu-link" asp-area="Identity" asp-page="/Account/Manage/Index" title="Manage">@User.Identity?.Name.ToUpperInvariant()</a>
+        </li>
+        <li class="menu-item">
+        <form class="" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })" style="margin-bottom:0px !important;">
+            <button type="submit" class="btn btn-outline-light">Logout</button>
+            </form>
+        </li>
+    }
+    else
+    {
+        <li class="menu-item">
+            <a class="menu-link" href="#" data-href="#section-faqs">
+                <div>FAQs</div>
+            </a>
+        </li>
+        <li class="menu-item">
+            <a class="menu-link" asp-area="Identity" asp-page="/Account/Login" data-lightbox="inline">
+                <div>LogIn</div>
+            </a>
+        </li>
+        <li class="menu-item menu-item-emphasis">
+            <a class="menu-link" asp-area="Identity" asp-page="/Account/Register" data-lightbox="inline">
+                <div>Register</div>
+            </a>
+        </li>
+    }

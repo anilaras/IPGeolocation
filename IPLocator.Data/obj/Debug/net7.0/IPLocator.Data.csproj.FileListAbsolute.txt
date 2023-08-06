@@ -1,0 +1,5 @@
+D:\WORK\Projeler\Personal\WEB\IPLocator\IPLocator\IPLocator.Data\obj\Debug\net7.0\IPLocator.Data.csproj.AssemblyReference.cache
+D:\WORK\Projeler\Personal\WEB\IPLocator\IPLocator\IPLocator.Data\obj\Debug\net7.0\IPLocator.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\WORK\Projeler\Personal\WEB\IPLocator\IPLocator\IPLocator.Data\obj\Debug\net7.0\IPLocator.Data.AssemblyInfoInputs.cache
+D:\WORK\Projeler\Personal\WEB\IPLocator\IPLocator\IPLocator.Data\obj\Debug\net7.0\IPLocator.Data.AssemblyInfo.cs
+D:\WORK\Projeler\Personal\WEB\IPLocator\IPLocator\IPLocator.Data\obj\Debug\net7.0\IPLocator.Data.csproj.CoreCompileInputs.cache

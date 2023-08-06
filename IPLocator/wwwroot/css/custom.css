@@ -1,0 +1,28 @@
+/* ----------------------------------------------------------------
+	Custom CSS
+
+	Add all your Custom Styled CSS here for New Styles or
+	Overwriting Default Theme Styles for Better Handling Updates
+-----------------------------------------------------------------*/
+
+
+.dark, .dark h1, .dark h2, .dark h3, .dark h4, .dark h5, .dark h6{
+    color: #ffb91c;
+}
+
+.menu-item:hover > .menu-link,
+.menu-item.current > .menu-link {
+    color: #ffb91c;
+}
+
+.dark .menu-item:hover > .menu-link,
+.dark .menu-item.current > .menu-link {
+    color: #ffb91c;
+}
+
+.content-wrap {
+    position: relative;
+    padding: 80px 0;
+    overflow: hidden;
+    min-height: 800px;
+}

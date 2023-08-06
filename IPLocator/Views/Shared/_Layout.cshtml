@@ -1,0 +1,187 @@
+﻿<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
+@*<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/IPGeolocator.styles.css" asp-append-version="true" />
+</head>*@
+<head>
+
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="author" content="Aras Soft." />
+
+    <!-- Stylesheets
+    ============================================= -->
+    <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,400i,600,700|Montserrat:400,700|Merriweather&display=swap" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="~/css/bootstrap.css" type="text/css" />
+    <link rel="stylesheet" href="~/css/style.css" type="text/css" />
+    <link rel="stylesheet" href="~/css/dark.css" type="text/css" />
+
+    <!-- Media Agency Demo Specific Stylesheet -->
+    <link rel="stylesheet" href="~/css/app-landing.css" type="text/css" />
+    <!-- / -->
+
+    <link rel="stylesheet" href="~/css/font-icons.css" type="text/css" />
+    <link rel="stylesheet" href="~/css/et-line.css" type="text/css" />
+    <link rel="stylesheet" href="~/css/animate.css" type="text/css" />
+    <link rel="stylesheet" href="~/css/magnific-popup.css" type="text/css" />
+
+    <link rel="stylesheet" href="~/css/fonts.css" type="text/css" />
+
+    <!-- Bootstrap Switch CSS -->
+    <link rel="stylesheet" href="~/css/components/bs-switches.css" type="text/css" />
+    <link rel="stylesheet" href="~/css/custom.css" type="text/css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <!-- Document Title
+    ============================================= -->
+    <title>@ViewData["Title"] - IPGeolocator</title>
+
+</head>
+
+<body class="stretched">
+
+
+    <!-- Document Wrapper
+    ============================================= -->
+    <div id="wrapper" class="clearfix">
+
+        <!-- Header
+        ============================================= -->
+        <header id="header" class="transparent-header dark" data-sticky-class="dark" data-responsive-class="dark" data-sticky-logo-height="80" data-sticky-menu-padding="29">
+            <div id="header-wrap">
+                <div class="container">
+                    <div class="header-row justify-content-lg-between">
+
+                        <!-- Logo
+                        ============================================= -->
+                        <div id="logo" class="col-auto order-lg-2 me-lg-0 px-0">
+                            <a asp-area="" asp-controller="Home" asp-action="Index" class="standard-logo" data-dark-logo="/images/logo-dark.png"><img src="/images/logo.png" alt="Logo"></a>
+                            <a asp-area="" asp-controller="Home" asp-action="Index" class="retina-logo" data-dark-logo="/images/logo-dark@2x.png"><img src="/images/logo@2x.png" alt="Logo"></a>
+                        </div><!-- #logo end -->
+
+                        <div id="primary-menu-trigger">
+                            <svg class="svg-trigger" viewBox="0 0 100 100"><path d="m 30,33 h 40 c 3.722839,0 7.5,3.126468 7.5,8.578427 0,5.451959 -2.727029,8.421573 -7.5,8.421573 h -20"></path><path d="m 30,50 h 40"></path><path d="m 70,67 h -40 c 0,0 -7.5,-0.802118 -7.5,-8.365747 0,-7.563629 7.5,-8.634253 7.5,-8.634253 h 20"></path></svg>
+                        </div>
+
+                        <!-- Primary Navigation
+                        ============================================= -->
+                        <nav class="primary-menu with-arrows not-dark col-lg-5 order-lg-1 px-0">
+
+                            <ul class="menu-container one-page-menu" data-easing="easeInOutExpo" data-speed="1250" data-offset="160">
+                                <li class="menu-item"><a class="menu-link" asp-area="" asp-controller="Home" asp-action="Index"><div>Home</div></a></li>
+
+                                <li class="menu-item">
+                                    <a class="menu-link" href="#" data-href="#section-nextgen"><div>Explore</div></a>
+                                    <ul class="sub-menu-container">
+                                        <li class="menu-item"><a class="menu-link" href="#" data-href="#section-nextgen"><div>NextGen Framework</div></a></li>
+                                        <li class="menu-item"><a class="menu-link" href="#" data-href="#section-stunning-graphics"><div>Stunning Graphics</div></a></li>
+                                        <li class="menu-item"><a class="menu-link" href="#" data-href="#section-secured-solutions"><div>Secured Solutions</div></a></li>
+                                    </ul>
+                                </li>
+                                <li class="menu-item"><a class="menu-link" href="#section-pricing" data-href="#section-pricing"><div>Pricing</div></a></li>
+                            </ul>
+
+                        </nav>
+
+                        <nav class="primary-menu not-dark col-lg-5 order-lg-3 px-0">
+
+                            <ul class="menu-container justify-content-lg-end one-page-menu" data-easing="easeInOutExpo" data-speed="1250" data-offset="160">
+                                <partial name="_LoginPartial" />
+                            </ul>
+
+                        </nav><!-- #primary-menu end -->
+
+                    </div>
+                </div>
+            </div>
+            <div class="header-wrap-clone"></div>
+        </header><!-- #header end -->
+        @RenderBody()
+
+
+        <!-- Footer
+        ============================================= -->
+        <footer id="footer" class="dark">
+            <!-- Copyrights
+            ============================================= -->
+            <div id="copyrights">
+                <div class="container">
+
+                    <div class="row justify-content-between col-mb-30">
+                        <div class="col-12 col-lg-auto text-center text-lg-start order-last order-lg-first">
+                            <img height="80px" src="images/logo-dark.png" alt="Image" class=""><br>
+                        </div>
+
+                        <div class="col-12 col-lg-auto text-bottom text-lg-end mt-4">
+                            <p>Copyrights &copy; 2020 All Rights Reserved by Anıl Aras.</p>
+                        </div>
+                    </div>
+
+                </div>
+            </div><!-- #copyrights end -->
+        </footer><!-- #footer end -->
+
+    </div><!-- #wrapper end -->
+    <!-- Go To Top
+    ============================================= -->
+    <div id="gotoTop" class="icon-angle-up"></div>
+
+    <!-- JavaScripts
+    ============================================= -->
+    <script src="~/js/jquery.js"></script>
+    <script src="~/js/site.js"></script>
+
+@*    <script src="~/js/plugins.min.js"></script>
+*@
+    <!-- Footer Scripts
+    ============================================= -->
+    <script src="~/js/functions.js"></script>
+
+    <script>
+        jQuery(document).ready(function ($) {
+            $('[data-pricing-plan]').click(function () {
+                $('#get-started-form').find('#get-started-form-package').val($(this).attr('data-pricing-plan'));
+                $('#get-started-form').find('#modal-get-started-package').html($(this).attr('data-pricing-plan'));
+            });
+        });
+        function printTheJSONInPrettyFormat(badJSON) {
+            var parseJSON = JSON.parse(badJSON);
+            var JSONInPrettyFormat = JSON.stringify(parseJSON, undefined, 4);
+            return JSONInPrettyFormat;
+        }
+
+        $(function () {
+            $("#slider-try-btn").click(function () {
+
+                $("#form-try-ip-return").val("getting data...");
+                $.get({
+                    url: '/api/Geolocation/' + $("#form-try-ip").val() + '/@ViewBag.TID',
+                    data: {
+                        't': 'true',
+                    }
+                }).done(function (data) {
+                    $("#form-try-ip-return").val(printTheJSONInPrettyFormat(data));
+                });
+            });
+
+        });
+
+
+
+    </script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+
+</body>
+</html>
+
+@*
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+</body>
+</html>
+*@

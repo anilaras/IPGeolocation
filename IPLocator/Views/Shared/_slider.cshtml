@@ -1,0 +1,61 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+
+<section id="slider" class="slider-element slider-parallax min-vh-60 min-vh-md-100 include-header">
+    <div class="slider-inner" style="background: url('/images/slider/worldmap.jpg') center center no-repeat; background-size: cover;">
+
+        <div class="vertical-middle slider-element-fade">
+            <div class="container dark py-5 py-md-0">
+                <div class="row">
+                    <div class="col-lg-6 col-md-8">
+                        <div class="emphasis-title">
+                            <h1 class="font-body ">Fast and simple<br>Geolocation API.</h1>
+                        </div>
+                        <a href="#" data-scrollto="#section-pricing" data-easing="easeInOutExpo" data-speed="1250" data-offset="160" class="button button-large button-light text-capitalize" style="border-radius: 23px;">Register</a>
+                        <a href="https://www.youtube.com/watch?v=N_r349riLEE" class="hero-action-link" data-lightbox="iframe"><i class="icon-play-sign"></i> Designed to be simple.</a>
+                    </div>
+                    <div class="col-lg-6 col-md-8">
+                        <div class="card border-0 p-3 shadow-lg" style="background-color: rgba(39, 39, 39, 0.85)">
+                            <div class="slider-title dark">
+                                <h1 class="">Try it now!</h1>
+                            </div>
+                            <div class="form-widget card-body" data-alert-type="inline">
+                                <div class="form-result"></div>
+                                <div class="form-process">
+                                    <div class="form-cleaning-loader css3-spinner" style="position: absolute;">
+                                        <div class="css3-spinner-double-bounce1"></div>
+                                        <div class="css3-spinner-double-bounce2"></div>
+                                    </div>
+                                </div>
+                                <div class="col-12">
+                                    <div class="input-group form-group">
+                                        <span class="input-group-text text-white"><i class="icon-line2-globe"></i></span>
+                                        <input type="text" minlength="7" maxlength="15" size="15" required pattern="^((\d|[1-9]\d|1\d\d|2[0-4]\d|25[0-5])\.){3}(\d|[1-9]\d|1\d\d|2[0-4]\d|25[0-5])$" name="form-try-ip" id="form-try-ip" class="form-control required" value="@ViewBag.UserIP" placeholder="IP adress">
+                                    </div>
+                                </div>
+                                <div class="col-12">
+                                    <div class="form-group">
+                                        <textarea class="form-control" name="form-try-ip-return" id="form-try-ip-return" rows="3"></textarea>
+                                    </div>
+                                </div>
+                                <div class="col-12">
+                                    <button id="slider-try-btn" name="form-cleaning-submit" class="btn btn-lg button-rounded button-border button button-border button-rounded button-black text-white fw-semibold w-100 mt-2">Locate IP</button>
+                                </div>
+                               
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="video-wrap">
+            <div class="video-overlay" style="background: rgba(0,0,0,0.2);"></div>
+        </div>
+
+    </div>
+</section>

@@ -1,0 +1,87 @@
+﻿@page
+@model EmailModel
+@{
+    ViewData["Title"] = "Manage Email";
+    ViewData["ActivePage"] = ManageNavPages.Email;
+}
+
+<h3>@ViewData["Title"]</h3>
+<partial name="_StatusMessage" for="StatusMessage" />
+    <div class="col-12">
+        <form id="email-form" method="post">
+            <div asp-validation-summary="All" class="text-danger"></div>
+            @if (Model.IsEmailConfirmed)
+            {
+                <div class="form-floating input-group form-group">
+                    <input asp-for="Email" class="form-control" disabled />
+                    <div class="input-group-append">
+                        <span class="h-100 input-group-text text-success font-weight-bold">✓</span>
+                    </div>
+                    <label asp-for="Email" class="form-label"></label>
+                </div>
+            }
+            else
+            {
+                <div class="form-floating form-group">
+                    <input asp-for="Email" class="form-control" disabled />
+                    <label asp-for="Email" class="form-label"></label>
+                <button id="email-verification" type="submit" asp-page-handler="SendVerificationEmail" class="btn btn-link btn-dark">Send verification email</button>
+                </div>
+            }
+            <div class="form-floating form-group">
+                <input asp-for="Input.NewEmail" class="form-control" autocomplete="email" aria-required="true" />
+                <label asp-for="Input.NewEmail" class="form-label"></label>
+                <span asp-validation-for="Input.NewEmail" class="text-danger"></span>
+            </div>
+        <button id="change-email-button" type="submit" asp-page-handler="ChangeEmail" class="w-100 btn btn-lg btn btn-dark">Change email</button>
+        </form>
+    </div>
+
+
+
+
+
+@*<form class="row" id="email-form" method="post">
+    <div asp-validation-summary="All" class="text-danger"></div>
+    <div class="form-process">
+        <div class="css3-spinner">
+            <div class="css3-spinner-scaler"></div>
+        </div>
+    </div>
+    @if (Model.IsEmailConfirmed)
+    {
+        <div class="col-12 form-group">
+            <label asp-for="Email" class="form-label"></label>
+            <input asp-for="Email" class="form-control" placeholder="Enter your Email Address"  disabled />
+        </div>
+    }
+    else
+    {
+        <div class="col-12 form-group">
+            <label asp-for="Email" class="form-label"></label>
+            <input asp-for="Email" class="form-control" placeholder="Enter your Email Address" disabled />
+            <button id="email-verification" type="submit" asp-page-handler="SendVerificationEmail" class="btn btn-link">Send verification email</button>
+        </div>
+    }
+
+    <div class="col-12 form-group">
+        <label asp-for="Input.NewEmail" class="form-label"></label>
+        <input asp-for="Input.NewEmail" class="form-control" autocomplete="email" aria-required="true" />
+        <span asp-validation-for="Input.NewEmail" class="text-danger"></span>
+    </div>
+
+    <div class="col-12 d-none">
+        <input type="text" id="event-registration-botcheck" name="event-registration-botcheck" value="" />
+    </div>
+    <div class="col-12">
+        <button type="submit" name="event-registration-submit" class="btn btn-secondary">Register</button>
+    </div>
+
+</form>*@
+
+
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
+

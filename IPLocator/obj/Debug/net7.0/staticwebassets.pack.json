@@ -1,0 +1,473 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\IPLocator.bundle.scp.css",
+      "PackagePath": "staticwebassets\\IPLocator.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\css\\app-landing.css",
+      "PackagePath": "staticwebassets\\css\\app-landing.css"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\css\\bootstrap-rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-rtl.css"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\css\\components\\bs-datatable.css",
+      "PackagePath": "staticwebassets\\css\\components\\bs-datatable.css"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\css\\components\\bs-filestyle.css",
+      "PackagePath": "staticwebassets\\css\\components\\bs-filestyle.css"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\css\\components\\bs-rating.css",
+      "PackagePath": "staticwebassets\\css\\components\\bs-rating.css"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\css\\components\\bs-select.css",
+      "PackagePath": "staticwebassets\\css\\components\\bs-select.css"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\css\\components\\bs-switches-vars.css",
+      "PackagePath": "staticwebassets\\css\\components\\bs-switches-vars.css"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\css\\components\\bs-switches.css",
+      "PackagePath": "staticwebassets\\css\\components\\bs-switches.css"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\css\\components\\dark-components.css",
+      "PackagePath": "staticwebassets\\css\\components\\dark-components.css"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\css\\components\\datepicker.css",
+      "PackagePath": "staticwebassets\\css\\components\\datepicker.css"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\css\\components\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\css\\components\\daterangepicker.css"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\css\\components\\ion.rangeslider-vars.css",
+      "PackagePath": "staticwebassets\\css\\components\\ion.rangeslider-vars.css"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\css\\components\\ion.rangeslider.css",
+      "PackagePath": "staticwebassets\\css\\components\\ion.rangeslider.css"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\css\\components\\pricing-table.css",
+      "PackagePath": "staticwebassets\\css\\components\\pricing-table.css"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\css\\components\\radio-checkbox-vars.css",
+      "PackagePath": "staticwebassets\\css\\components\\radio-checkbox-vars.css"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\css\\components\\radio-checkbox.css",
+      "PackagePath": "staticwebassets\\css\\components\\radio-checkbox.css"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\css\\components\\rangeslider\\sprite-skin-nice.png",
+      "PackagePath": "staticwebassets\\css\\components\\rangeslider\\sprite-skin-nice.png"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\css\\components\\select-boxes.css",
+      "PackagePath": "staticwebassets\\css\\components\\select-boxes.css"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\css\\components\\timepicker.css",
+      "PackagePath": "staticwebassets\\css\\components\\timepicker.css"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\css\\custom.css",
+      "PackagePath": "staticwebassets\\css\\custom.css"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\css\\dark.css",
+      "PackagePath": "staticwebassets\\css\\dark.css"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\css\\et-line.css",
+      "PackagePath": "staticwebassets\\css\\et-line.css"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\css\\font-icons.css",
+      "PackagePath": "staticwebassets\\css\\font-icons.css"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\css\\fonts.css",
+      "PackagePath": "staticwebassets\\css\\fonts.css"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\css\\fonts\\Simple-Line-Icons.dev.svg",
+      "PackagePath": "staticwebassets\\css\\fonts\\Simple-Line-Icons.dev.svg"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\css\\fonts\\Simple-Line-Icons.eot",
+      "PackagePath": "staticwebassets\\css\\fonts\\Simple-Line-Icons.eot"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\css\\fonts\\Simple-Line-Icons.svg",
+      "PackagePath": "staticwebassets\\css\\fonts\\Simple-Line-Icons.svg"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\css\\fonts\\Simple-Line-Icons.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\Simple-Line-Icons.ttf"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\css\\fonts\\Simple-Line-Icons.woff",
+      "PackagePath": "staticwebassets\\css\\fonts\\Simple-Line-Icons.woff"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\css\\fonts\\Simple-Line-Icons.woff2",
+      "PackagePath": "staticwebassets\\css\\fonts\\Simple-Line-Icons.woff2"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\css\\fonts\\font-icons.eot",
+      "PackagePath": "staticwebassets\\css\\fonts\\font-icons.eot"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\css\\fonts\\font-icons.svg",
+      "PackagePath": "staticwebassets\\css\\fonts\\font-icons.svg"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\css\\fonts\\font-icons.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\font-icons.ttf"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\css\\fonts\\font-icons.woff",
+      "PackagePath": "staticwebassets\\css\\fonts\\font-icons.woff"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\css\\fonts\\font-icons.woff2",
+      "PackagePath": "staticwebassets\\css\\fonts\\font-icons.woff2"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\css\\fonts\\lined-icons.eot",
+      "PackagePath": "staticwebassets\\css\\fonts\\lined-icons.eot"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\css\\fonts\\lined-icons.svg",
+      "PackagePath": "staticwebassets\\css\\fonts\\lined-icons.svg"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\css\\fonts\\lined-icons.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\lined-icons.ttf"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\css\\fonts\\lined-icons.woff",
+      "PackagePath": "staticwebassets\\css\\fonts\\lined-icons.woff"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\css\\fonts\\lined-icons.woff2",
+      "PackagePath": "staticwebassets\\css\\fonts\\lined-icons.woff2"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\images\\logo-dark.png",
+      "PackagePath": "staticwebassets\\images\\logo-dark.png"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\images\\slider\\worldmap.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\worldmap.jpg"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\js\\functions.js",
+      "PackagePath": "staticwebassets\\js\\functions.js"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\js\\jquery.calendario.js",
+      "PackagePath": "staticwebassets\\js\\jquery.calendario.js"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\js\\jquery.hotspot.js",
+      "PackagePath": "staticwebassets\\js\\jquery.hotspot.js"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\js\\jquery.js"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\js\\plugins.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins.min.js"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\WORK\\Projeler\\Personal\\WEB\\IPLocator\\IPLocator\\IPLocator\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.IPLocator.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.IPLocator.props",
+      "PackagePath": "build\\IPLocator.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.IPLocator.props",
+      "PackagePath": "buildMultiTargeting\\IPLocator.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.IPLocator.props",
+      "PackagePath": "buildTransitive\\IPLocator.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

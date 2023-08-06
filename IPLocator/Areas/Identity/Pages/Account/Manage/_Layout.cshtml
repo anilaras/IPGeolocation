@@ -1,0 +1,69 @@
+﻿@using Microsoft.AspNetCore.Identity
+
+@{
+    if (ViewData.TryGetValue("ParentLayout", out var parentLayout))
+    {
+        Layout = (string)parentLayout;
+    }
+    else
+    {
+        Layout = "/Areas/Identity/Pages/Shared/_Layout.cshtml";
+    }
+}
+
+@*<h1>Manage your account</h1>
+
+<div>
+    <h2>Change your account settings</h2>
+    <hr />
+    <div class="row">
+        <div class="col-md-3">
+            <partial name="_ManageNav" />
+        </div>
+        <div class="col-md-9">
+            @RenderBody()
+        </div>
+    </div>
+</div>
+*@
+
+
+<section id="content">
+	<div class="content-wrap">
+		<div class="container clearfix">
+
+			<div class="row clearfix">
+
+				<div class="col-md-9">
+					<div class="border-0">
+                        <span>@User.Identity?.Name</span>
+					</div>
+
+					<div class="clear"></div>
+
+					<div class="row clearfix">
+
+						<div class="col-lg-12">
+
+							@RenderBody()
+
+						</div>
+
+					</div>
+
+				</div>
+
+				<div class="w-100 line d-block d-md-none"></div>
+			
+                @Html.Partial("_ManageNav");
+			</div>
+
+		</div>
+	</div>
+</section><!-- #content end -->
+
+
+
+@section Scripts {
+    @RenderSection("Scripts", required: false)
+}
